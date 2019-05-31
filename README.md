@@ -15,3 +15,5 @@ npm install --save semantic-ui-react
 Install semantic UI CSS
 
 npm install --save semantic-ui-css
+
+npm install --save next-routes
