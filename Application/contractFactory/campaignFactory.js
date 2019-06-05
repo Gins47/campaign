@@ -3,7 +3,7 @@ import contract from '../contracts/campaignFactory.json'
 //import contract from '../../Truffle/build/contracts/campaignFactory.json'
 //console.log("contract == ",contract)
 
-let address = "0x202a8C83D5721aC1F3e98c79FbFeDBe5cDFBA2ba"
+let address = "0x9D37eE6f5a8c2273AAFA01B73Cc5650280254229"
 
 let abi = contract.abi;
 let contractInstance = new web3.eth.Contract(abi,address)
